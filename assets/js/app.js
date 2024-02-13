@@ -3,7 +3,7 @@ const btnNo = document.querySelector('.botones__btn-no');
 const randomPic = document.querySelector('.random-pics__cats');
 const question = document.querySelector('.question');
 
-const musica = new Audio('/assets/musica/Manu Chao - Me gustas tu.mp3');
+const musica = new Audio('C:\Users\HUAWEI\Music');
 
 // Si acepta: 
 btnSi.addEventListener('click', ()=>{
